@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiniGround</string>
+    <string name="error_rhuna_not_found" formatted="false">Rhuna não encontrado</string>
+    <string name="msg_connecting_to" formatted="true">Conectando à %s</string>
+
+</resources>
